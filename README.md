@@ -1,5 +1,9 @@
 # FifaWorldCup2018
 
+The purpose of this project was to create a final database that could be used to answer the following question:
+
+*What is the correlation between individual player stats and the teams overall performance in the 2018 world cup?*
+
 ### Data Sources
 
 -  CSV files were found using [Kaggle.com](www.kaggle.com)
