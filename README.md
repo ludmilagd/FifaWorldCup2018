@@ -1,6 +1,6 @@
 # FifaWorldCup2018
 
-The purpose of this project was to create a final database that could be used to answer the following question:
+The purpose of this project was to create a clean database that could be used to answer the following question:
 
 *What is the correlation between individual player stats and the teams overall performance in the 2018 world cup?*
 
@@ -12,6 +12,9 @@ The purpose of this project was to create a final database that could be used to
 	- FIFA 2018 World Cup Players
 
 ### ETL Process
+
+##### Data modeling
+
 
 ##### Extract
 
@@ -28,3 +31,4 @@ After cleaning the data, we merged the data frames to create a final data to com
 ##### Load
 
 Using pandas, the final data table was loaded into a sql database in pgAdmin for future analyses.
+
