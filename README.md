@@ -32,3 +32,5 @@ After cleaning the data, we merged the data frames to create a final data to com
 
 Using pandas, the final data table was loaded into a sql database in pgAdmin for future analyses.
 
+![alt text](https://github.com/ludmilagd/FifaWorldCup2018/blob/main/Slides/S1.PNG)
+
